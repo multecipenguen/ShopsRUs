@@ -3,7 +3,7 @@ This project provides discounts to customers of ShopsRUs over web or mobile. It 
 
 Start:
 Clone project from https://github.com/multecipenguen/shopsrus.git
-Run it on visual studio or goto project folder "ShopsRUs.Api" then build with "dotnet build" after dotnet run.
+Run it on visual studio or go to project folder "ShopsRUs.Api" then build with "dotnet build" after dotnet run.
 Go to http://localhost:5000/swagger for quick look.
 
 After any change on db run you can run "add-migration" on Package Manager Console.
