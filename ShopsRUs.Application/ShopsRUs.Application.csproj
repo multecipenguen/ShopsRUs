@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="10.3.6" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0" />
+    <PackageReference Include="OneOf" Version="3.0.205" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopsRUs.Domain\ShopsRUs.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
