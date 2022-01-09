@@ -1,5 +1,5 @@
 ShopsRUs Retail Store Discounts
-This project provides discounts to customers of ShopsRUs over web or mobile. It has sets of endpoints which are calculate discounts and crates invoices.
+This project provides discounts to customers of ShopsRUs over web or mobile. It has sets of endpoints which are calculate discounts and creates invoices.
 
 Start:
 Clone project from https://github.com/multecipenguen/shopsrus.git
